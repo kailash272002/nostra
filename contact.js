@@ -8,3 +8,7 @@ function shownavbar(){
 function removenavbar(){
     sidenav.style.left="-60%"
 }
+
+function alertmsg(){
+    alert("Sucessfully Submitted")
+}
